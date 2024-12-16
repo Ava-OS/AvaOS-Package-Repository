@@ -1,2 +1,0 @@
-this is the package folder.AvaOS Developers Upload the Package Files in This folder
-this is the Main Package Repository for AvaOS
